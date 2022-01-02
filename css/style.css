@@ -15,7 +15,7 @@
   --form-label-color: rgba(117, 117, 117, 0.5);
   --time-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
-body {
+/* body {
   width: 100%;
 
   color: var(--primary-text-color);
@@ -39,7 +39,7 @@ a {
 
 img {
   display: block;
-}
+} */
 
 .border {
   border-bottom: 1px solid #ececec;
