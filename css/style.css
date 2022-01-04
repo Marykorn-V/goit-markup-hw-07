@@ -143,13 +143,13 @@ img {
 
 /* Contacts */
 
-.navigation__list {
+/* .navigation__list {
   margin: 0;
   display: flex;
   padding-left: 0;
   margin-left: auto;
-}
-.navigation__list .navigation__list-contact + .navigation__list-contact {
+} */
+/* .navigation__list-contact + .navigation__list-contact {
   margin-left: 50px;
 }
 .navigation__link {
@@ -176,11 +176,11 @@ img {
   margin-right: 10px;
   width: 16px;
   height: 16px;
-}
+} */
 
 /* Шапка */
 
-.hero {
+/* .hero {
   margin-right: auto;
   margin-left: auto;
   max-width: 1600px;
@@ -235,9 +235,9 @@ img {
 .hero__button:hover,
 .hero__button:focus {
   transform: scale(1.2);
-}
+} */
 /* Main */
-.section-features {
+/* .section-features {
   padding-top: 94px;
 }
 .features {
@@ -282,10 +282,10 @@ img {
 }
 .features__text {
   margin: 0;
-}
+} */
 
 /* Чем мы занимаемся */
-.section {
+/* .section {
   padding-top: 94px;
   padding-bottom: 94px;
 }
@@ -340,11 +340,11 @@ img {
   background: rgba(47, 48, 58, 0.8);
   padding: 27px 0;
   margin: 0;
-}
+} */
 
 /* Наша коанда */
 
-.section.command {
+/* .section.command {
   background-color: var(--third-bgc-color);
 }
 .title {
@@ -442,11 +442,11 @@ img {
 .command__icon:hover,
 .command__icon:focus {
   fill: var(--primary-wight-color);
-}
+} */
 
 /* Постоянные клиенты */
 
-.customer {
+/* .customer {
   display: flex;
   margin-top: 0;
   margin-bottom: 0;
@@ -484,15 +484,15 @@ img {
   width: 106px;
   height: 60px;
   fill: currentColor;
-}
+} */
 /* Подвал */
-footer {
+/* footer {
   padding: 60px 0;
 
   background-color: var(--second-bgc-color);
   color: var(--primary-wight-color);
-}
-.basement {
+} */
+/* .basement {
   display: flex;
 }
 .basement__link {
@@ -561,8 +561,8 @@ footer {
   margin: 0;
   padding-left: 0;
   width: 206px;
-}
-.subscribe__contact {
+} */
+/* .subscribe__contact {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -590,8 +590,8 @@ footer {
   align-items: center;
   justify-content: center;
   fill: currentColor;
-}
-.block-send {
+} */
+/* .block-send {
   display: inline-block;
   margin-left: 93px;
   margin-top: 12px;
@@ -647,8 +647,8 @@ footer {
 .form__input:hover::placeholder,
 .form__input:focus::placeholder {
   color: #ffffff;
-}
-.form__button {
+} */
+/* .form__button {
   font-weight: 700;
   font-size: 16px;
   line-height: 1.8;
@@ -673,7 +673,7 @@ footer {
   fill: currentColor;
 
   margin-left: 10px;
-}
+} */
 /* Portfolio */
 .portfolio {
   width: 1200px;
